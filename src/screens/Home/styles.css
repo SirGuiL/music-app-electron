@@ -1,0 +1,7 @@
+.home {
+  display: flex;
+  height: 100vh;
+
+  background: #161728;
+  color: #fff;
+}
